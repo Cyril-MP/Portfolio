@@ -1,8 +1,6 @@
 # Portfolio
 
-# Portfolio
-
-**Live preview: [click me](file:///C:/Users/SELASE/github/JS_CSS_PortfolioProject/index.html)**
+**Live preview: [click me](https://cyril-mp.github.io/Portfolio/)**
 
 A `HTML CSS & JS` Project. Made with ♥ . There will be four pages in the website (HomePage,AboutPage,BlogPage and PortfolioPage). In this project, we will learn how we can create a cv website using `HTML, CSS & JS`. The main purpose of the project is to get used to  HTML & CSS.
 
